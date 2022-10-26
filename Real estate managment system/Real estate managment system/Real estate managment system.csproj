@@ -47,9 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Compile Include="Admin.cs" />
     <Compile Include="DBService.cs" />
     <Compile Include="forms\Ulogin.cs">
+=======
+    <Compile Include="forms\Ulogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Ulogin.Designer.cs">
+      <DependentUpon>Ulogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+>>>>>>> Stashed changes
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="forms\Ulogin.Designer.cs">
@@ -63,13 +73,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -84,8 +89,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Folder Include="classes\" />
     <Folder Include="images\" />
+=======
+    <Folder Include="cards\" />
+    <Folder Include="class\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\34f2550546f8a70485274dd2c76d305915c98a971fa342b1ef004ff02776781cbaa7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\wp8049036.jpg" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

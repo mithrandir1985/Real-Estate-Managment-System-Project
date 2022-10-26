@@ -16,10 +16,13 @@ namespace Real_estate_managment_system.forms
         {
             InitializeComponent();
         }
+<<<<<<< Updated upstream
 
         private void exit_MouseHover(object sender, EventArgs e)
         {
             exit.BackColor = Color.Red;
         }
+=======
+>>>>>>> Stashed changes
     }
 }
