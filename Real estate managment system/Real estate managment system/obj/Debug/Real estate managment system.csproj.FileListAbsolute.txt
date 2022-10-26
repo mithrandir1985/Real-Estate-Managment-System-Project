@@ -7,3 +7,11 @@ C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate
 C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.CoreCompileInputs.cache
 C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.exe
 C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.pdb
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.AssemblyReference.cache
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real_estate_managment_system.forms.Ulogin.resources
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real_estate_managment_system.Properties.Resources.resources
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.GenerateResource.cache
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.CoreCompileInputs.cache
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.exe
+C:\Users\Natnael\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.pdb

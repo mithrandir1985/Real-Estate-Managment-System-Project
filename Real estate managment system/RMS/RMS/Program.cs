@@ -1,11 +1,10 @@
-﻿using Real_estate_managment_system.forms;
+﻿using RMS.forms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace Real_estate_managment_system
+namespace RMS
 {
     internal static class Program
     {
@@ -17,7 +16,7 @@ namespace Real_estate_managment_system
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ulogin());
+            Application.Run(new userlogin());
         }
     }
 }
